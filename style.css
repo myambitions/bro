@@ -14,8 +14,24 @@ section img {
   padding: 10px;
 }
 
-[data-id="3"] {
-  padding-bottom: 40px;
+[data-id='1'] {
+  padding-bottom: 199px;
+}
+
+[data-id='2'] {
+  width: 400px;
+  padding-right: 8px;
+  padding-bottom: 80px;
+}
+
+[data-id='3'] {
+  padding-bottom: 76px;
+  padding-bottom: 136px;
+}
+
+[data-id='logo_1'] {
+  padding-bottom: 76px;
+  padding-bottom: 136px;
 }
 
 .info {
@@ -23,6 +39,8 @@ section img {
   top: 0;
   left: 0;
   transition: 1s ease;
+  padding-bottom: 271px;
+  padding-right: 165px;
 }
 
 .swipe {

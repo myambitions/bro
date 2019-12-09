@@ -1,4 +1,4 @@
-const imagesArray = ["1", "2", "3", "logo_1"];
+const imagesArray = ["1", "2", "3", "logo_1", "info"];
 
 const img = document.querySelector("img");
 let i = 0;
