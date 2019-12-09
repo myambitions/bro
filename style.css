@@ -11,6 +11,11 @@ section {
 
 section img {
   margin: auto;
+  padding: 10px;
+}
+
+[data-id="3"] {
+  padding-bottom: 40px;
 }
 
 .info {
